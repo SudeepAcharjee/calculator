@@ -28,7 +28,7 @@ int main() {
             printf("%.2f / %.2f = %.2f", num1, num2, result);
             break;
         default:
-            printf("Invalid operator");
+            printf("Invalid operators");
     }
 
     return 0;
